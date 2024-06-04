@@ -1,8 +1,64 @@
-# React + Vite
+# Larget Crypto Marketplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It fetches real-time cryptocurrency rates from the CoinGecko API, displaying comprehensive data, including trends and statistics, within a 10-day timeframe, ensuring up-to-date market insights for users.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](./src/assets/image%201.png)
+![App Screenshot](./src/assets/image%202.png)
+![App Screenshot](./src/assets/image%203.png)
+
+## Tech Stack
+
+**Client:** React, Context, CSS, Coingeko api
+
+## Key Features
+
+- **[Responsive layout]**
+- **[UX/UI accessibility]**
+- **[Dynamic data]**
+
+## 🚀 Live Demo
+
+Link
+
+
+## 💻 Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+In order to run this project you need:
+
+- A browser of your choice.
+- A text editor of your choice.
+- An installed node.js on your local system
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Use the following Commands:
+
+```bash 
+    cd your-desired-folder
+    git clone git@github.com:ab-noori/Cryptopanel.git
+```
+### Install
+Install this project with:
+
+```bash
+    npm install
+```
+
+### Run project
+- Create an `.env` in root directory
+- Add `VITE_COINGEKO_API_KEY`
+- Finally run using `npm run dev`
+
+### Credit
+
+[CoinGeko](https://www.coingecko.com/en/api)
+
+
+
