@@ -20,7 +20,7 @@ It fetches real-time cryptocurrency rates from the CoinGecko API, displaying com
 
 ## 🚀 Live Demo
 
-Link
+https://crypto-price-tracker-cyan.vercel.app/
 
 
 ## 💻 Getting Started
@@ -42,7 +42,7 @@ Clone this repository to your desired folder:
 
 ```bash 
     cd your-desired-folder
-    git clone git@github.com:ab-noori/Cryptopanel.git
+    git clone https://github.com/realaashishly/Crypto-Price-Tracker.git
 ```
 ### Install
 Install this project with:
